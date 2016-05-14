@@ -1,0 +1,10 @@
+build/
+*.pyc
+.idea/*
+*.swp
+*.swu
+dist/
+*.egg-info/
+run.py
+output.jpg
+__pycache__
